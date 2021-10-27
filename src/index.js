@@ -12,7 +12,7 @@ const p = new Command()
 const modeOpt = new Option('-m, --mode [mode]', '模式选择').choices(['debug', 'release']).default('debug')
 const configOpt = new Option('-c, --config <path>', 'build.json path').default('build.json')
 
-p.version('1.0.4')
+p.version('1.0.5')
   .showHelpAfterError(true)
   .addOption(modeOpt)
   .addOption(configOpt)

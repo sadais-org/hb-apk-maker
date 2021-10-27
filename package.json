@@ -1,6 +1,6 @@
 {
   "name": "@sadais/hb-apk-maker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "uni-app打包Android apk",
   "main": "src/index.js",
   "type": "module",
@@ -14,6 +14,8 @@
   "keywords": [],
   "author": "liuweitao",
   "license": "ISC",
+  "homepage": "https://piui.sadais.com/",
+  "repository": "https://github.com/sadais-org/hb-apk-maker",
   "dependencies": {
     "adm-zip": "^0.5.9",
     "commander": "^8.3.0",
