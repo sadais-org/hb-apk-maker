@@ -1,0 +1,16 @@
+{
+  "android": {
+    "debug": {
+      "keystore": "sign.keystore",
+      "alias": "sign",
+      "storepass": "123456",
+      "keypass": "123456"
+    },
+    "release": {
+      "keystore": "sign.keystore",
+      "alias": "sign",
+      "storepass": "123456",
+      "keypass": "123456"
+    }
+  }
+}
